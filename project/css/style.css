@@ -1,5 +1,6 @@
 body{
-    background-color:dodgerblue
+    background-color:dodgerblue;
+    font-family:"Work Sans";
 }
 
 #title{
@@ -10,3 +11,4 @@ body{
 .text{
     color:aquamarine
 }
+
