@@ -9,6 +9,14 @@ body{
 }
 
 .text{
-    color:aquamarine
+    color: rgb(61, 16, 221);
 }
 
+p{
+    border-style:outset;
+    border-width: 5px;
+    border-color: crimson;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: blanchedalmond;
+}
